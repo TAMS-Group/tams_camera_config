@@ -1,0 +1,6 @@
+#UVC cameras
+#Most Logitech cameras
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="046d", MODE="0666"
+
+#Most Microsoft cameras
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="045e", MODE="0666"
