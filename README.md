@@ -1,4 +1,4 @@
-# tams_camera_config
+# TAMS camera config
 A place to put tams camera calibration files
 
 ## Kinect2 calibration
